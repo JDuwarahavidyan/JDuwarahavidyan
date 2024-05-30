@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duwarahavidyan Jeganathan</h1>
 <h3 align="center">Electrical and Information Engineering Undergraduate | Cloud Computing Enthusiastic | Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duwarahavidyanj&label=Profile%20views&color=0e75b6&style=flat" alt="duwarahavidyanj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jduwarahavidyan&label=Profile%20views&color=0e75b6&style=flat" alt="duwarahavidyanj" /> </p>
 
 - 📫 How to reach me **duwarahavidyan@gmail.com**
 
