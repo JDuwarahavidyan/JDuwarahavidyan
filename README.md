@@ -70,7 +70,6 @@
 
 <hr/>
 
-<img align="right" height="150"  src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/04/photo-1515879218367-8466d910aaa4-scaled.jpg"  />
 <img align="right" height="150" style="margin-right: 15px; margin-left: 15px;"  src="https://bleuwire.com/wp-content/uploads/2020/02/software-development-life-cycle-sdlc.png"  />
 
 <img align="right" height="150" src="https://learndiversified.com/wp-content/uploads/2020/07/agile-project-management-approach-1536x864.png"  />
@@ -96,8 +95,6 @@
 </ul>
 
 <br>
-<br>
-
 <hr/>
 
 
