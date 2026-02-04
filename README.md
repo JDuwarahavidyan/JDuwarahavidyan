@@ -30,6 +30,12 @@
 🚀 Fun Fact: "Building solutions that make a real difference in people's lives!"
 ```
 
+<br>
+
+<a href="https://drive.google.com/file/d/1eT4l4kEmA0GxmT8iAZyBvqpoPfYq3u8D/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄_Download_Resume-FF6B6B?style=for-the-badge&logoColor=white" alt="Download Resume"/>
+</a>
+
 </div>
 
 ---
@@ -368,12 +374,10 @@ Netflix-inspired streaming platform with full-featured admin dashboard.
 
 <div align="center">
 
-
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JDuwarahavidyan&theme=tokyonight" />
 <br>
 
 <div align="center">
-
 
 <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=JDuwarahavidyan&show_icons=true&theme=tokyonight" />
 <br>
@@ -381,9 +385,6 @@ Netflix-inspired streaming platform with full-featured admin dashboard.
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDuwarahavidyan&theme=tokyonight" />
 
 </div>
-
-
-
 
 </div>
 
@@ -503,16 +504,7 @@ Sensor Integration
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDuwarahavidyan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duwarahavidyan@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/JDuwarahavidyan)
-
-</div>
-
----
-
-## 📈 Visitor Count
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/JDuwarahavidyan/count.svg)
+[![Resume](https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1eT4l4kEmA0GxmT8iAZyBvqpoPfYq3u8D/view?usp=sharing)
 
 </div>
 
