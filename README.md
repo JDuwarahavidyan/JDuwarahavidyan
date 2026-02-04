@@ -167,20 +167,19 @@
 
 ### 🔐 <a href="https://github.com/JDuwarahavidyan/FYP-ShadowScan-A_Network_Security_Analyzer" target="_blank">ShadowScan - Network Security Analyzer</a>
 
-**Final Year Project** - Comprehensive network security analysis and vulnerability detection tool.
+**Final Year Project** - Comprehensive network security analysis to infer user behaviours in a smart environment.
 
 **Tech Stack:**
 
-- 🌐 JavaScript/Node.js
+- 🌐 React.js and Python
 - 🔍 Network Scanning Protocols
-- 🛡️ Security Assessment Tools
+- 🛡️ Wireshark
 
 **Key Features:**
 
-- Network vulnerability scanning
-- Port and service detection
-- Security report generation
-- Real-time threat analysis
+- Detecting Nearby Access Points
+- Passively Sniffing the Packets
+- Analyzing to Identify User Behaviours
 
 <a href="https://github.com/JDuwarahavidyan/FYP-ShadowScan-A_Network_Security_Analyzer" target="_blank">🔗 View Project</a>
 
@@ -202,8 +201,7 @@ Deep Learning system that generates natural language descriptions for images.
 
 - Pre-trained CNN models for visual features
 - Sequence-to-sequence LSTM architecture
-- Beam search for caption optimization
-- Attention mechanisms
+- Beam and greedy search for caption optimization
 
 <a href="https://github.com/JDuwarahavidyan/Image-Caption-Generator-Using-CCN-LSTM" target="_blank">🔗 View Project</a>
 
@@ -226,7 +224,6 @@ Time-series forecasting for electricity price prediction using ML models.
 
 **Key Features:**
 
-- Historical data analysis
 - Multiple ML model comparison
 - Feature engineering
 - Prediction accuracy optimization
