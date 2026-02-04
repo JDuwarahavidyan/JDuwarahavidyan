@@ -165,7 +165,7 @@
 <tr>
 <td width="50%">
 
-### 🔐 [ShadowScan - Network Security Analyzer](https://github.com/JDuwarahavidyan/FYP-ShadowScan-A_Network_Security_Analyzer)
+### 🔐 <a href="https://github.com/JDuwarahavidyan/FYP-ShadowScan-A_Network_Security_Analyzer" target="_blank">ShadowScan - Network Security Analyzer</a>
 
 **Final Year Project** - Comprehensive network security analysis and vulnerability detection tool.
 
@@ -182,12 +182,12 @@
 - Security report generation
 - Real-time threat analysis
 
-[🔗 View Project](https://github.com/JDuwarahavidyan/FYP-ShadowScan-A_Network_Security_Analyzer)
+<a href="https://github.com/JDuwarahavidyan/FYP-ShadowScan-A_Network_Security_Analyzer" target="_blank">🔗 View Project</a>
 
 </td>
 <td width="50%">
 
-### 🤖 [Image Caption Generator (CNN-LSTM)](https://github.com/JDuwarahavidyan/Image-Caption-Generator-Using-CCN-LSTM)
+### 🤖 <a href="https://github.com/JDuwarahavidyan/Image-Caption-Generator-Using-CCN-LSTM" target="_blank">Image Caption Generator (CNN-LSTM)</a>
 
 Deep Learning system that generates natural language descriptions for images.
 
@@ -205,7 +205,7 @@ Deep Learning system that generates natural language descriptions for images.
 - Beam search for caption optimization
 - Attention mechanisms
 
-[🔗 View Project](https://github.com/JDuwarahavidyan/Image-Caption-Generator-Using-CCN-LSTM)
+<a href="https://github.com/JDuwarahavidyan/Image-Caption-Generator-Using-CCN-LSTM" target="_blank">🔗 View Project</a>
 
 </td>
 </tr>
@@ -213,7 +213,7 @@ Deep Learning system that generates natural language descriptions for images.
 <tr>
 <td width="50%">
 
-### 📊 [ML-Based Electricity Market Forecasting](https://github.com/JDuwarahavidyan/Machine_Learning-Based_Electricity_Market_Forecasting)
+### 📊 <a href="https://github.com/JDuwarahavidyan/Machine_Learning-Based_Electricity_Market_Forecasting" target="_blank">ML-Based Electricity Market Forecasting</a>
 
 Time-series forecasting for electricity price prediction using ML models.
 
@@ -231,12 +231,12 @@ Time-series forecasting for electricity price prediction using ML models.
 - Feature engineering
 - Prediction accuracy optimization
 
-[🔗 View Project](https://github.com/JDuwarahavidyan/Machine_Learning-Based_Electricity_Market_Forecasting)
+<a href="https://github.com/JDuwarahavidyan/Machine_Learning-Based_Electricity_Market_Forecasting" target="_blank">🔗 View Project</a>
 
 </td>
 <td width="50%">
 
-### ⚡ [High-Performance N-Body Simulation](https://github.com/JDuwarahavidyan/High-Performance-Parallelization-of-N-Body-Simulation)
+### ⚡ <a href="https://github.com/JDuwarahavidyan/High-Performance-Parallelization-of-N-Body-Simulation" target="_blank">High-Performance N-Body Simulation</a>
 
 Parallel computing implementation of gravitational N-Body simulation.
 
@@ -253,7 +253,7 @@ Parallel computing implementation of gravitational N-Body simulation.
 - ⚡ **2× speedup** with OpenMP
 - 🔥 Hybrid optimization techniques
 
-[🔗 View Project](https://github.com/JDuwarahavidyan/High-Performance-Parallelization-of-N-Body-Simulation)
+<a href="https://github.com/JDuwarahavidyan/High-Performance-Parallelization-of-N-Body-Simulation" target="_blank">🔗 View Project</a>
 
 </td>
 </tr>
@@ -261,7 +261,7 @@ Parallel computing implementation of gravitational N-Body simulation.
 <tr>
 <td width="50%">
 
-### 🔒 [Secure E-Voting Protocol](https://github.com/JDuwarahavidyan/Secure-Voting-Protocol---IS-Project)
+### 🔒 <a href="https://github.com/JDuwarahavidyan/Secure-Voting-Protocol---IS-Project" target="_blank">Secure E-Voting Protocol</a>
 
 Cryptographically secure anonymous voting system for digital elections.
 
@@ -279,12 +279,12 @@ Cryptographically secure anonymous voting system for digital elections.
 - 🔒 Data integrity verification
 - 🛡️ Multi-layered authentication
 
-[🔗 View Project](https://github.com/JDuwarahavidyan/Secure-Voting-Protocol---IS-Project)
+<a href="https://github.com/JDuwarahavidyan/Secure-Voting-Protocol---IS-Project" target="_blank">🔗 View Project</a>
 
 </td>
 <td width="50%">
 
-### 🎟️ [EasyCoupon - Digital Meal Coupon System](https://github.com/JDuwarahavidyan/EasyCoupon-Mobile-New-UI)
+### 🎟️ <a href="https://github.com/JDuwarahavidyan/EasyCoupon-Mobile-New-UI" target="_blank">EasyCoupon - Digital Meal Coupon System</a>
 
 **🏆 Production System** serving students at Faculty of Engineering, University of Ruhuna
 
@@ -303,7 +303,7 @@ A comprehensive dual-platform application for managing welfare meal coupons with
 - 🔔 Push notifications
 - 🔐 Secure authentication system
 
-[🔗 Mobile App](https://github.com/JDuwarahavidyan/EasyCoupon-Mobile-New-UI) | [🔗 Web Portal](https://github.com/JDuwarahavidyan/EasyCoupon-Web-Admin)
+<a href="https://github.com/JDuwarahavidyan/EasyCoupon-Mobile-New-UI" target="_blank">🔗 Mobile App</a> | <a href="https://github.com/JDuwarahavidyan/EasyCoupon-Web-Admin" target="_blank">🔗 Web Portal</a>
 
 </td>
 </tr>
@@ -311,7 +311,7 @@ A comprehensive dual-platform application for managing welfare meal coupons with
 <tr>
 <td width="50%">
 
-### ⚡ [RFID Footstep Power Harvesting System](https://github.com/JDuwarahavidyan/Advanced-RFID-Based-Footstep-Power-Harvesting-and-Charging-System)
+### ⚡ <a href="https://github.com/JDuwarahavidyan/Advanced-RFID-Based-Footstep-Power-Harvesting-and-Charging-System" target="_blank">RFID Footstep Power Harvesting System</a>
 
 IoT-based sustainable energy system using piezoelectric sensors.
 
@@ -329,12 +329,12 @@ IoT-based sustainable energy system using piezoelectric sensors.
 - Remote monitoring via GSM
 - Sustainable device charging
 
-[🔗 View Project](https://github.com/JDuwarahavidyan/Advanced-RFID-Based-Footstep-Power-Harvesting-and-Charging-System)
+<a href="https://github.com/JDuwarahavidyan/Advanced-RFID-Based-Footstep-Power-Harvesting-and-Charging-System" target="_blank">🔗 View Project</a>
 
 </td>
 <td width="50%">
 
-### 🎥 [Cinexa - Modern OTT Streaming Platform](https://github.com/JDuwarahavidyan/Cinexa-A-Modern-OTT-Platform-MERN)
+### 🎥 <a href="https://github.com/JDuwarahavidyan/Cinexa-A-Modern-OTT-Platform-MERN" target="_blank">Cinexa - Modern OTT Streaming Platform</a>
 
 Netflix-inspired streaming platform with full-featured admin dashboard.
 
@@ -352,7 +352,7 @@ Netflix-inspired streaming platform with full-featured admin dashboard.
 - 🔍 Advanced search & filters
 - 📱 Fully responsive design
 
-[🔗 View Project](https://github.com/JDuwarahavidyan/Cinexa-A-Modern-OTT-Platform-MERN)
+<a href="https://github.com/JDuwarahavidyan/Cinexa-A-Modern-OTT-Platform-MERN" target="_blank">🔗 View Project</a>
 
 </td>
 </tr>
@@ -362,9 +362,9 @@ Netflix-inspired streaming platform with full-featured admin dashboard.
 
 ### 💡 More Projects
 
-[![Intelligent Driver Safety System](https://img.shields.io/badge/🚗_Intelligent_Driver_Safety-C++-00599C?style=for-the-badge)](https://github.com/JDuwarahavidyan/Intelligent-Driver-Safety-System)
-[![Bank Management System](https://img.shields.io/badge/🏦_Bank_Management_System-C++-00599C?style=for-the-badge)](https://github.com/JDuwarahavidyan/Bank-Management-Sysyem)
-[![Pharmacy Management](https://img.shields.io/badge/💊_Pharmacy_Management-C++-00599C?style=for-the-badge)](https://github.com/JDuwarahavidyan/Pharmacy_Management_System)
+<a href="https://github.com/JDuwarahavidyan/Intelligent-Driver-Safety-System" target="_blank"><img src="https://img.shields.io/badge/🚗_Intelligent_Driver_Safety-C++-00599C?style=for-the-badge" alt="Intelligent Driver Safety System"/></a>
+<a href="https://github.com/JDuwarahavidyan/Bank-Management-Sysyem" target="_blank"><img src="https://img.shields.io/badge/🏦_Bank_Management_System-C++-00599C?style=for-the-badge" alt="Bank Management System"/></a>
+<a href="https://github.com/JDuwarahavidyan/Pharmacy_Management_System" target="_blank"><img src="https://img.shields.io/badge/💊_Pharmacy_Management-C++-00599C?style=for-the-badge" alt="Pharmacy Management"/></a>
 
 </div>
 
@@ -500,11 +500,10 @@ Sensor Integration
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duwarahavidyan-jeganathan-763b6a192)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDuwarahavidyan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duwarahavidyan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/JDuwarahavidyan)
-[![Resume](https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1eT4l4kEmA0GxmT8iAZyBvqpoPfYq3u8D/view?usp=sharing)
+<a href="https://linkedin.com/in/duwarahavidyan-jeganathan-763b6a192" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:duwarahavidyan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/JDuwarahavidyan" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+<a href="https://drive.google.com/file/d/1eT4l4kEmA0GxmT8iAZyBvqpoPfYq3u8D/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge&logoColor=white" alt="Resume"/></a>
 
 </div>
 
