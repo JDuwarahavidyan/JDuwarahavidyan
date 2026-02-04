@@ -213,7 +213,7 @@ Deep Learning system that generates natural language descriptions for images.
 
 ### 📊 <a href="https://github.com/JDuwarahavidyan/Machine_Learning-Based_Electricity_Market_Forecasting" target="_blank">ML-Based Electricity Market Forecasting</a>
 
-Time-series forecasting for electricity price prediction using ML models.
+Machine learning system for electricity market price prediction and analysis with advanced forecasting algorithms.
 
 **Tech Stack:**
 
