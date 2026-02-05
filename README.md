@@ -195,7 +195,7 @@ Deep Learning system that generates natural language descriptions for images.
 - 🧠 TensorFlow/Keras
 - 👁️ CNN (VGG16/ResNet) for feature extraction
 - 📝 LSTM for caption generation
-- 🐍 Python, NumPy, OpenCV
+- 🐍 Python, NumPy
 
 **Key Features:**
 
@@ -220,7 +220,6 @@ Machine learning system for electricity market price prediction and analysis wit
 - 📈 Scikit-Learn, XGBoost
 - 📊 Time-series Analysis
 - 🐍 Python, Pandas, NumPy
-- 📉 Statistical Models
 
 **Key Features:**
 
