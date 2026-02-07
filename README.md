@@ -14,7 +14,7 @@
 👨‍💻 Profile:
   name: "Duwarahavidyan Jeganathan"
   location: "Sri Lanka 🇱🇰"
-  education: "B.Sc. Electrical & Information Engineering (First Class)"
+  education: "B.Sc. Electrical & Information Engineering"
   university: "University of Ruhuna"
 
 🎯 Currently Learning:
@@ -42,9 +42,9 @@
 
 ## 🎯 About Me
 
-> **First Class Graduate** in Electrical and Information Engineering with a strong focus on software engineering and AI/ML systems. Experienced in Python-based development, RAG-powered architectures, and LLM-driven applications, with hands-on exposure to prompt engineering and AI agent design. Industrial training and academic projects have built a solid foundation in problem-solving, collaborative development, and adaptable system design. Possess foundational knowledge of AWS cloud concepts and a strong interest in building scalable, reliable, and production-ready AI solutions that serve real-world applications.
+> **Graduate** in Electrical and Information Engineering with a strong focus on software engineering and AI/ML systems. Experienced in Python-based development, RAG-powered architectures, and LLM-driven applications, with hands-on exposure to prompt engineering and AI agent design. Industrial training and academic projects have built a solid foundation in problem-solving, collaborative development, and adaptable system design. Possess foundational knowledge of AWS cloud concepts and a strong interest in building scalable, reliable, and production-ready AI solutions that serve real-world applications.
 
-- 🎓 **First Class Graduate** in Electrical & Information Engineering from University of Ruhuna
+- 🎓 **Graduate** in Electrical & Information Engineering from University of Ruhuna
 - 🔭 Currently working on **AI-powered projects**
 - 🏗️ Built **production systems** serving hundreds of students at Faculty of Engineering
 - 💡 Strong foundation in **Machine Learning**, **Deep Learning**, and **Generative AI**
@@ -392,7 +392,7 @@ Netflix-inspired streaming platform with full-featured admin dashboard.
 class DuwarahavidyanJeganathan:
     def __init__(self):
         self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.education = "B.Sc. Electrical & Information Engineering (First Class)"
+        self.education = "B.Sc. Electrical & Information Engineering"
         self.location = "Sri Lanka 🇱🇰"
 
     def expertise(self):
